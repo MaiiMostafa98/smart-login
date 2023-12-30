@@ -1,0 +1,46 @@
+body
+{
+    background-image: url(../imgs/istockphoto-959093714-612x612.jpg);
+   background-size: cover;
+   background-position: center center;
+}
+
+
+.overlay
+{
+   background-color: rgba(0, 0, 0, 0.3);
+   background-size: cover;
+   height: 100vh;
+}
+
+.Welcome
+{
+   width: 40%;
+   height: 35%;
+   border-radius: 7px;
+   border-color: rgba(0, 0, 0, 0.3);
+   box-shadow: 1px 1px 10px 1px #404649
+}
+
+.Welcome h1 
+{
+   text-shadow: 2px 2px 2px #2b2b2b;
+   color: #fdf3f3 !important;
+}
+
+
+.navbar h4 
+{
+   text-shadow: 3px 3px 8px #131313;
+   color: #fffcfc !important;
+}
+
+.button
+{
+   border-radius: 5px;
+   border-color: transparent;
+   padding: 5px 10px;
+   background-color: transparent;
+   color: #fffcfc !important;
+   box-shadow: 1px 1px 5px 1px #404649
+}
